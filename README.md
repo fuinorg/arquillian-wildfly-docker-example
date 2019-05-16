@@ -1,7 +1,8 @@
 # arquillian-wildfly-docker-example
 Arquillian test deployed to a remote Wildfly server running in a Docker container
 
-There seems to be a problem while Arquillian connects to a Wildfly 14 that is running in a docker container.
+## There seems to be a problem while Arquillian connects to a Wildfly 14 that is running in a docker container.
+## This project demonstrates that problem (See below)
 
 Steps to reproduce:
 
